@@ -22,7 +22,7 @@ const developer = {
     name: "Md Hammaduddin",
     role: "Computer Science Student & Aspiring Full Stack Developer",
     location: "India 🇮🇳",
-    languages: ["JavaScript", "Python", "Java", "C++", "HTML/CSS"],
+    languages: ["Python", "C", "C++"],
     currentFocus: "Building amazing web applications",
     funFact: "I turn coffee into code! ☕→💻"
 };
